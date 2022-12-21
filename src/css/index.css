@@ -67,11 +67,11 @@ body{
 }
 
 #titulo{
-    background-image: url(/src/img/wallpaperbetter.com_1920x1080\ \(1\).jpg);
+    background-image: url(/src/img/opcion2.png);
     justify-content: center;
     height: 700px;
     background-position: center;
-    background-size: auto;
+    background-size: cover;
     padding-top: 20px;
 
 
